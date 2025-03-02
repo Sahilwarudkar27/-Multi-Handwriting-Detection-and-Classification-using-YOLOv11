@@ -1,4 +1,4 @@
-# -Multi-Handwriting-Detection-and-Classification-using-YOLOv11-and-CNN
+# -Multi-Handwriting-Detection-and-Classification-using-YOLOv11
 A project leveraging YOLOv11 for multi-handwriting detection and PyTorch-based CNN for handwriting classification in multi-writer documents.
 # Features:
 Detect multiple handwriting regions using YOLOv11.
