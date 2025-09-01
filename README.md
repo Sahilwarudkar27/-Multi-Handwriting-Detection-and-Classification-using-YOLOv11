@@ -34,7 +34,7 @@ Here are some example outputs of the system detecting and classifying multiple h
 
 The system can also perform in **real-time**, classifying different handwriting styles instantly from live input:
 
-![Real-Time Output](Real Time Output.jpg)
+![Real-Time Output](RealTimeOutput.png)
 
 ---
 
