@@ -22,6 +22,19 @@ Unlike conventional approaches, this **two-stage deep learning pipeline** integr
 
 ---
 
+Model
+
+We trained a handwriting classification model using YOLOv11.
+The dataset was manually divided into 3 classes:
+
+1) Sahil
+
+2) Rugved
+
+3) Harsh
+
+---
+
 ## 📸 Model Output
 
 Here are some example outputs of the system detecting and classifying multiple handwriting styles:
